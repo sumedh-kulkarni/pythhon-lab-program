@@ -1,0 +1,14 @@
+while 1:
+    msgbox("welcome to comparekaro.com")
+    msg ="Choose a product from below"
+    title = "E-bazaar"
+    choices = ["shirt", "Biscuits", "Soap"]
+    choice = choicebox(msg, title, choices)
+    
+    msgbox("You chose: " + str(choice))
+    if (choice == "shirt"):
+        msg =  "Which brand?"
+        title = "Shirt"
+        choices = ["Peterengland","levis"]
+        choice = choicebox(msg,title,choices)
+        msgbox("You chose: "+str(choice))
