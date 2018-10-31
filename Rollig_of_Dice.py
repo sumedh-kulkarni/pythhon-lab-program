@@ -1,6 +1,6 @@
-#name Pratik Badhe
-#roll no. 02
-#Gr no. 11810754
+#name sumedh kulkarni
+#roll no. 60
+#Gr no. 11810153
 
 from random  import randint as rt
 out=0
