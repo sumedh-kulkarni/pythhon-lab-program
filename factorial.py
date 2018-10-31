@@ -1,6 +1,6 @@
-#name Pratik Badhe
-#roll no. 02
-#gr no 11810754
+#name sumedh kulkarni
+#roll no. 60
+#gr no 11810153
 
 
 def facto(x): 
