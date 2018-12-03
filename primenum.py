@@ -1,3 +1,6 @@
+#prime number
+#sumedh kulkarni
+#M60
 x=int(input("enter a no."))
 i=2
 y=i
