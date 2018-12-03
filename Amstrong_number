@@ -1,5 +1,5 @@
-#name Sumedh Kulkarni
-#roll no. 60
+#SUMEDH KULKARNI
+#M60
 #gr no 11810153
 def armstrong(n):
    sum=0
