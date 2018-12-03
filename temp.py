@@ -1,4 +1,6 @@
-M46
+#temprature
+#sumedh kulkarni
+#M60
 x=int(input("Enter temperature:"))#INPUT STATEMENT
 y=input("is it in 'celcius' or 'temperatur'")#ASKING WHETHER IT IS IN CELSIUS OR FARENITE
 if y is 'celsius':#CONITIONAL STATEMENT
